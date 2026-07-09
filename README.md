@@ -12,4 +12,4 @@ Funcionalidad principal:Proporcionar información sobre el Sistema Solar, incluy
 
 Autor:Juan Sebastián Gaona Guarín.
 
-Enlace publicado en Render:https://tu-enlace-render.onrender.com
+Enlace publicado en Render:https://solarsystem-analytics.onrender.com
