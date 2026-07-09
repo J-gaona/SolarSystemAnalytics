@@ -1,2 +1,15 @@
-# SolarSystemAnalytics
-SolarSystem Analytics es una plataforma web interactiva desarrollada para Soluciones Digitales y Analítica S.A.S. que permite explorar y aprender sobre el Sistema Solar mediante una interfaz moderna e intuitiva.
+ SolarSystem Analytics
+
+Nombre del proyecto:SolarSystem Analytics
+
+Descripción:Plataforma web educativa e interactiva que permite explorar el Sistema Solar mediante información científica, simulaciones, indicadores y herramientas de aprendizaje en una interfaz moderna y responsive.
+
+Tema seleccionado:Sistema Solar.
+
+Herramientas utilizadas:HTML5, CSS3, JavaScript, GitHub y Render.
+
+Funcionalidad principal:Proporcionar información sobre el Sistema Solar, incluyendo los planetas, métricas espaciales, registro de observaciones, simulador orbital, cuestionario interactivo y formulario de contacto, ofreciendo una experiencia educativa dinámica e intuitiva.
+
+Autor:Juan Sebastián Gaona Guarín.
+
+Enlace publicado en Render:https://tu-enlace-render.onrender.com
